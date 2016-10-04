@@ -1,0 +1,59 @@
+[Terrarium]
+Name = Terrarium 1
+Description = Snakes left
+
+[Light]
+Day = 08:00
+Night = 17:00
+CommandDay = echo on
+CommandNight = echo off
+
+[Temperature]
+DayMin = 29
+DayMax = 32
+NightMin = 25
+NightMax = 27
+AlarmDiff = 2
+
+[Humidity]
+DayMin = 30
+DayMax = 55
+NightMin = 35
+NightMax = 60
+AlarmDiff = 2
+
+[Sensor_TT]
+Name = Temperature top
+Type = Temperature
+CommandRead = echo test
+
+[Sensor_TB]
+Name = Temperature bottom
+Type = Temperature
+CommandRead = echo test
+OnlyRead = 1
+
+[Sensor_THB]
+Name = DHT22 bottom
+Type = TemperatureHumidity
+CommandRead = echo test
+
+[Sensor_HB]
+Name = Humidity bottom
+Type = Humidity
+CommandRead = echo test
+Disabled = 1
+
+[Actuator_S1]
+Name = Spots
+Type = Heater
+CommandOn = echo test
+CommandOff = echo test
+Watt = 10
+
+[Actuator_S1]
+Name = Waterfall
+Type = Humidifier
+CommandOn = echo test
+CommandOff = echo test
+Watt = 5

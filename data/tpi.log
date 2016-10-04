@@ -1,0 +1,17 @@
+1
+1
+Processing t2
+Processing t1
+2016-10-03 16:26:25,317 - __main__ - ERROR - 1
+2016-10-03 16:26:25,329 - __main__ - DEBUG - Processing t2
+2016-10-03 16:26:25,518 - __main__ - DEBUG - Processing t1
+2016-10-03 16:26:59,919 - __main__ - ERROR - 1
+2016-10-03 16:26:59,924 - __main__ - DEBUG - Processing t2
+2016-10-03 16:27:00,117 - __main__ - DEBUG - Processing t1
+2016-10-03 16:28:03,076 - __main__ - ERROR - 1
+2016-10-03 16:28:03,081 - __main__ - DEBUG - Processing t2
+2016-10-03 16:28:03,267 - __main__ - DEBUG - Processing t1
+2016-10-04 22:19:50,420 - __main__ - DEBUG - Processing t2
+2016-10-04 22:19:50,601 - __main__ - DEBUG - Processing t1
+2016-10-04 22:25:18,213 - __main__ - DEBUG - Processing .example
+2016-10-04 22:27:46,024 - __main__ - DEBUG - Processing .example
