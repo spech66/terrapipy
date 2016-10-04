@@ -1,2 +1,2 @@
-# terrapipy
+# TerraPiPy
 Terrarium + Raspberry Pi + Python
