@@ -8,3 +8,5 @@ rm pimatic-init-d
 sudo chmod +x /etc/init.d/pimatic
 sudo chown root:root /etc/init.d/pimatic
 sudo update-rc.d pimatic defaults
+
+echo "You can start now with: sudo service pimatic start"
