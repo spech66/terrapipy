@@ -16,3 +16,17 @@ TerraPiPy is the control part of the system. Using intuitive config files all in
 
 # Installation
 Currently i work at high preasure to get this complete :smile:
+
+# Sensors
+There are many sensors out there to get all the information the systems need. Some of them are listed below.
+* DS18B20 Digital Temperature Sensor
+* AM2302 Digital Temperature and Humidity Sensor
+* DHT22 Digital Temperature and Humidity Sensor
+* DHT11 Digital Temperature and Humidity Sensor*
+* ...
+
+# Actuators
+TerraPiPy can switch nearly every actuator you have. Some possible types are listed below.
+* RF Switch with Radio frequency (RF) transceiver
+* EG-PMS2 EnerGenie Programmable surge protector
+* ...
