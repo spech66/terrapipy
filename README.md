@@ -25,7 +25,8 @@ Currently I work at high preasure to get this done :smile:
 Install pimatic 0.9 using the instructions from the [pimatic forum](https://forum.pimatic.org/topic/2083/v0-9-install-pimatic-v0-9-from-scratch) or use the TerraPiPy setup script.
 
     cd terrapipy
-    ./setup_pilight.sh
+    ./setup_pimatic.sh
+    ./setup_autostart.sh
 
 The setup script will put the installation to */home/pi/pimatic-app/*.  
 Very soon here will be some tutorials and init scripts for a good terrarium configuration.
