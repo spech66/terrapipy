@@ -16,7 +16,19 @@ TerraPiPy is the installation/maintenance/control part of the system. It helps t
 * **Log** all data
 
 # Installation
-Currently i work at high preasure to get this complete :smile:
+Currently I work at high preasure to get this done :smile:
+
+    sudo apt-get install build-essential git
+    cd /home/pi
+    git clone https://github.com/spech66/terrapipy.git terrapipy
+    
+Install pimatic 0.9 using the instructions from the [pimatic forum](https://forum.pimatic.org/topic/2083/v0-9-install-pimatic-v0-9-from-scratch) or use the TerraPiPy setup script.
+
+    cd terrapipy
+    ./setup_pilight.sh
+
+The setup script will put the installation to */home/pi/pimatic-app/*.  
+Very soon here will be some tutorials and init scripts for a good terrarium configuration.
 
 # Sensors
 There are many sensors supported by pimatic. Some of them are listed below.
