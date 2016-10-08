@@ -1,4 +1,4 @@
-# TerraPiPy
+# TerraPiPy ![Logo](https://github.com/spech66/terrapipy-web/blob/master/images/logo.png)
 TerraPiPy is a collection of different projects to create easy to use tools for terrarium/aquarium/vivarium control and **automation** for the Raspberry Pi. TerraPiPy is short for "Terrarium + Raspberry Pi + Python" because snakes are cool (and some parts are written in Python).
 The system can be run on a Raspberry Pi to setup, monitor and **control** [pimatic](https://github.com/pimatic/pimatic) to use many terrariums, aquariums and vivariums. A website is provided as a dashboard and the info tool provides data providers for other systems.
 
